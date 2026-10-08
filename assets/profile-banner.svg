@@ -24,7 +24,7 @@
     <rect x="62" y="54" width="88" height="30" rx="15" fill="#5de3c0" fill-opacity=".12"/>
     <text x="106" y="74" text-anchor="middle" fill="#78ebce" font-size="13" font-weight="700">게임 개발</text>
     <text x="62" y="147" fill="#f4f8fb" font-size="48" font-weight="700" letter-spacing="-1.8">플레이를 코드로 만듭니다.</text>
-    <text x="64" y="194" fill="#a8bdcb" font-size="19">Unity와 C#으로 전투와 상호작용을 구현합니다.</text>
+    <text x="64" y="194" fill="#a8bdcb" font-size="19">게임 플레이와 전투 UI, XR 상호작용을 구현합니다.</text>
     <path d="M64 224H800" stroke="#8eb2c5" stroke-opacity=".16"/>
     <text x="64" y="262" fill="#f4f8fb" font-size="23" font-weight="700">tyfmq123-hub</text>
     <text x="64" y="305" fill="#96adbd" font-size="15">게임 플레이</text>
